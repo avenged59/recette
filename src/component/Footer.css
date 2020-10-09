@@ -1,0 +1,17 @@
+.Footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 45px!important;
+    background: #000000;
+    color: #FFFFFF;
+    
+  }
+
+  a{
+    font-size: 1rem!important;
+  }
+  .Footer > ul >li > Link{
+    color: white!important;
+  }
+  

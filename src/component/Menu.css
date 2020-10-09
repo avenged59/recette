@@ -1,0 +1,16 @@
+ .navbar-brand, .navbar-text{
+    color:white!important;
+    font-size: 1.2rem!important;
+    font-weight: 400;
+}
+
+
+.Menu >.container-fluid  {
+    margin: 0!important;
+    padding: 0!important;
+}
+
+.navbar{
+
+    background-color: black!important;
+}
